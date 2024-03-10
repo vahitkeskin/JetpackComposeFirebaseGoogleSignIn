@@ -27,10 +27,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.vahitkeskin.jetpackcomposefirebasegooglesignin" />
+                  <option name="mobileSdkAppId" value="1:761907896548:android:880ed687d5dfb38f04ccf1" />
+                  <option name="projectId" value="signin-d3cfa" />
+                  <option name="projectNumber" value="761907896548" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
